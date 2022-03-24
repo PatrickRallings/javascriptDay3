@@ -1,6 +1,5 @@
 let hands = ['rock', 'paper', 'scissors']
 
-
 function getHand () {
     // let x;
     // let handGiven;
